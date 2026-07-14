@@ -145,12 +145,18 @@ Ecommerce-Sales-Dashboard/
 ├── Dashboard/
 │   └── Ecommerce_Dashboard.xlsx
 │
-├── Images/
-│   └── Dashboard.png
-│
 └── README.md
 ```
 
+
+## Images
+
+![alt text](<Screenshot (277).png>) 
+![alt text](<Screenshot (276).png>) 
+![alt text](<Screenshot (275).png>)
+ ![alt text](<Screenshot (274).png>) 
+![alt text](<Screenshot (273).png>)
+![alt text](Dashboard.png)
 ---
 
 ## 📌 Future Improvements
